@@ -1,2 +1,2 @@
 # SimpleCalculator
-A student project
+A student project of a calculator with basic functionality.
